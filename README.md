@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center">
+<div style="display: flex; align-items: center; width: 100%; text-align:center">
   
 ## Seja bem vindo ao meu perfil do Github!
 </div>
