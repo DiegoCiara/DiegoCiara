@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center; width: 100%; text-align:center">
-  
+  ![PerfilGit-removebg-preview](https://github.com/DiegoCiara/DiegoCiara/assets/114518504/51de9c3d-38fb-4b6c-999f-0f918f856fc6)
+
 ## Seja bem vindo ao meu perfil do Github!
-</div>
 
 Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e acadêmico em Engenharia de Software com o maior amor e orgulho!
 
