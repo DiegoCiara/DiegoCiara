@@ -16,6 +16,8 @@ Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e a
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCiara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
  <img align="left" width="250px" style="margin-top:-20px" src="https://github.com/DiegoCiara/DiegoCiara/assets/114518504/958566b9-151a-4b10-9ebe-054b4f7a3f88">
+
+
 ### Coisas que gosto de fazer
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
