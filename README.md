@@ -1,6 +1,5 @@
 <div align="center">
-  
-  ![PerfilGit-removebg-preview](https://github.com/DiegoCiara/DiegoCiara/assets/114518504/e63320c1-8f47-4f25-b44d-a116e6083c22)
+  <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/DiegoCiara/DiegoCiara/assets/114518504/e63320c1-8f47-4f25-b44d-a116e6083c22">
 </div>
     
 ## Seja bem vindo ao meu perfil do Github!
