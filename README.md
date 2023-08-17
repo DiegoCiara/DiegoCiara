@@ -1,4 +1,7 @@
-## Olá! Seja bem vindo ao meu perfil do Github!
+<div style="display: flex; align-items: center">
+  
+## Seja bem vindo ao meu perfil do Github!
+</div>
 
 Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e acadêmico em Engenharia de Software com o maior amor e orgulho!
 
