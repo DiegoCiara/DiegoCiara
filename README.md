@@ -30,7 +30,8 @@ Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </div>
-
+<br/>
+<br/>
 ## Contatos:
 
 <div>
