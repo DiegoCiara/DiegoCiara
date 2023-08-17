@@ -19,7 +19,7 @@ Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e a
 
 </div>
   
- <img align="right" width="250px" src="https://github.com/DiegoCiara/DiegoCiara/assets/114518504/958566b9-151a-4b10-9ebe-054b4f7a3f88">
+ <img align="left" width="150px" src="https://github.com/DiegoCiara/DiegoCiara/assets/114518504/958566b9-151a-4b10-9ebe-054b4f7a3f88">
 
 
 ### Coisas que gosto de fazer
