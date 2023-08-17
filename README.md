@@ -6,6 +6,7 @@
 
 Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e acadêmico em Engenharia de Software com o maior amor e orgulho!
 
+<i>Não se assuste com a bagunça, estou arrumanto!</>
 <div>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -30,6 +31,7 @@ Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </div>
+
 ## Contatos:
 
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
