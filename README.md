@@ -5,9 +5,8 @@
     
 # Seja bem vindo ao meu perfil do Github!
 
-Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador front-end e acadêmico em Engenharia de Software com o maior amor e orgulho!
+Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador JavaScript e acadêmico em Engenharia de Software com o maior amor e orgulho!
 
-<i>Não se assuste com a bagunça, estou arrumanto! </i>
 ### Contatos:
 
 <a href="https://instagram.com/sr.ciara" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
