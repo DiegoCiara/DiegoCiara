@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu perfil do Github!
 
-Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador JavaScript e acadêmico em Engenharia de Software com o maior amor e orgulho!
+Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador JavaScript, Python, Acadêmico em Engenharia de Software com o maior amor e orgulho!
 
 ### Contatos:
 
