@@ -11,4 +11,3 @@ Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador JavaScript, P
 
 <img loading="lazy" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCiara&layout=compact&langs_count=7&theme=dracula"/>
 
-<div>
