@@ -1,8 +1,3 @@
-<div align="center">
-  <img align="right" width="300px" style="margin-top:-20px" src="https://github.com/DiegoCiara/DiegoCiara/assets/114518504/e63320c1-8f47-4f25-b44d-a116e6083c22">
-  
-</div>
-    
 # Seja bem vindo ao meu perfil do Github!
 
 Me chamo Diego, tenho 22 anos, moro em Caruaru-PE, sou programador JavaScript e acadêmico em Engenharia de Software com o maior amor e orgulho!
