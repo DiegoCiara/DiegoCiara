@@ -1,4 +1,4 @@
-<img src='http://site-diegociara.vercel.app/capa.png' />
+<img src='http://site-diegociara.vercel.app/capa.png' height='100px'/>
 
 # Seja bem vindo ao meu perfil do Github!
 
