@@ -1,4 +1,4 @@
-<img src='http://site-diegociara.vercel.app/logo.png'/>
+<img src='http://site-diegociara.vercel.app/logo.png' height='100px'/>
 
 # Seja bem vindo ao meu perfil do Github!
 
