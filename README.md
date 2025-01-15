@@ -1,6 +1,6 @@
 
 # Seja bem vindo ao meu perfil do Github!
-<div width='100%' style='background-color: #000718' >
+<div width='100%' style="background-color: '#000718'; width: '100%'" >
   
 <img src='http://site-diegociara.vercel.app/capa.png' height='200px'/>
 </div>
