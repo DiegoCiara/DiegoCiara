@@ -1,4 +1,3 @@
-<img src='http://site-diegociara.vercel.app/capa.png' height='200px'/>
 
 # Seja bem vindo ao meu perfil do Github!
 
@@ -6,6 +5,7 @@ Sou desenvolvedor full stack com 5 anos de experiência em aplicações web, inc
   <p href="https://skillicons.dev" width='100%' align='start'>
     <img src="https://skillicons.dev/icons?i=typescript,js,react,nodejs,redux,nextjs,tailwind,docker,postgresql,aws,linux,python,&theme=dark&perline=12&font=inter" />
   </p>
+<img src='http://site-diegociara.vercel.app/capa.png' height='200px'/>
 
 ### Contatos:
 
