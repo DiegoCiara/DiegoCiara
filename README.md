@@ -5,7 +5,7 @@ Sou desenvolvedor full stack com 5 anos de experiência em aplicações web, inc
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,tailwind,,redux,js,html,css,nest&theme=dark&perline=6&font=inter" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,tailwind,,redux,js,html,css&theme=dark&perline=6&font=inter" />
   </a>
 </p>
 
