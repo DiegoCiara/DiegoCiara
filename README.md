@@ -2,7 +2,7 @@
 # Seja bem vindo ao meu perfil do Github!
 <div width='100%' style="background-color:#000718; width: 100%" >
   
-<img src='http://site-diegociara.vercel.app/capa.png' height='200px'/>
+<img src='http://site-diegociara.vercel.app/capa.png' height='150px'/>
 </div>
 
 Sou desenvolvedor full stack com 5 anos de experiência em aplicações web, incluindo 3 anos focados em software de gestão empresarial e inteligência artificial, desenvolvi no total 12 projetos, além do desenvolvimento de 4 aplicações SaaS com bases de usuários ativos. Sou especialista em JavaScript e TypeScript, com ótimas habilidades para DevOps e Cloud.
