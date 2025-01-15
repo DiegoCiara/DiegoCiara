@@ -1,4 +1,4 @@
-<img src='http://diegociara.com.br/capa.svg' height='150px'/>
+<img src='http://site-diegociara.vercel.app/capa.svg' height='150px'/>
 
 # Seja bem vindo ao meu perfil do Github!
 
