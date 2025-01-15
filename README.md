@@ -1,4 +1,4 @@
-<img src='http://softspace.com.br/logo.svg' height='150px'/>
+<img src='http://diegociara.com.br/capa.svg' height='150px'/>
 
 # Seja bem vindo ao meu perfil do Github!
 
