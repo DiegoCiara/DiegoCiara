@@ -1,5 +1,3 @@
-
-
 # Seja bem vindo ao meu perfil do Github!
 
 Sou desenvolvedor full stack com 5 anos de experiência em aplicações web, incluindo 3 anos focados em software de gestão empresarial e inteligência artificial, desenvolvi no total 12 projetos, além do desenvolvimento de 4 aplicações SaaS com bases de usuários ativos. Sou especialista em JavaScript e TypeScript, utilizando frameworks como ReactJS, NextJS e NodeJS, com ótimas habilidades para DevOps e Cloud.
